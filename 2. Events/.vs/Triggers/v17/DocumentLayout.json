@@ -1,0 +1,218 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Study\\Unity Projects\\Triggers\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D211F5C0-3DBE-B4F9-1AB3-83CE4E455A08}|Assembly-CSharp.csproj|d:\\study\\unity projects\\triggers\\assets\\scripts\\pausemenu\\pausemenucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D211F5C0-3DBE-B4F9-1AB3-83CE4E455A08}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\pausemenu\\pausemenucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D211F5C0-3DBE-B4F9-1AB3-83CE4E455A08}|Assembly-CSharp.csproj|d:\\study\\unity projects\\triggers\\assets\\scripts\\startandlevelmenu\\levelmenucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D211F5C0-3DBE-B4F9-1AB3-83CE4E455A08}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\startandlevelmenu\\levelmenucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D211F5C0-3DBE-B4F9-1AB3-83CE4E455A08}|Assembly-CSharp.csproj|D:\\Study\\Unity Projects\\Triggers\\assets\\scripts\\finish\\finishtrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D211F5C0-3DBE-B4F9-1AB3-83CE4E455A08}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\finish\\finishtrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D211F5C0-3DBE-B4F9-1AB3-83CE4E455A08}|Assembly-CSharp.csproj|D:\\Study\\Unity Projects\\Triggers\\assets\\scripts\\startandlevelmenu\\startmenucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D211F5C0-3DBE-B4F9-1AB3-83CE4E455A08}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\startandlevelmenu\\startmenucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D211F5C0-3DBE-B4F9-1AB3-83CE4E455A08}|Assembly-CSharp.csproj|D:\\Study\\Unity Projects\\Triggers\\assets\\scripts\\coin\\coinmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D211F5C0-3DBE-B4F9-1AB3-83CE4E455A08}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\coin\\coinmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D211F5C0-3DBE-B4F9-1AB3-83CE4E455A08}|Assembly-CSharp.csproj|D:\\Study\\Unity Projects\\Triggers\\assets\\scripts\\coin\\coin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D211F5C0-3DBE-B4F9-1AB3-83CE4E455A08}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\coin\\coin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D211F5C0-3DBE-B4F9-1AB3-83CE4E455A08}|Assembly-CSharp.csproj|D:\\Study\\Unity Projects\\Triggers\\assets\\scripts\\healthui\\healthui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D211F5C0-3DBE-B4F9-1AB3-83CE4E455A08}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\healthui\\healthui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D211F5C0-3DBE-B4F9-1AB3-83CE4E455A08}|Assembly-CSharp.csproj|D:\\Study\\Unity Projects\\Triggers\\assets\\scripts\\enemy\\enemycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D211F5C0-3DBE-B4F9-1AB3-83CE4E455A08}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy\\enemycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D211F5C0-3DBE-B4F9-1AB3-83CE4E455A08}|Assembly-CSharp.csproj|D:\\Study\\Unity Projects\\Triggers\\assets\\scripts\\enemy\\enemyhealthsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D211F5C0-3DBE-B4F9-1AB3-83CE4E455A08}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy\\enemyhealthsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D211F5C0-3DBE-B4F9-1AB3-83CE4E455A08}|Assembly-CSharp.csproj|D:\\Study\\Unity Projects\\Triggers\\assets\\scripts\\player\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D211F5C0-3DBE-B4F9-1AB3-83CE4E455A08}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D211F5C0-3DBE-B4F9-1AB3-83CE4E455A08}|Assembly-CSharp.csproj|D:\\Study\\Unity Projects\\Triggers\\assets\\scripts\\player\\playerhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D211F5C0-3DBE-B4F9-1AB3-83CE4E455A08}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\playerhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D211F5C0-3DBE-B4F9-1AB3-83CE4E455A08}|Assembly-CSharp.csproj|D:\\Study\\Unity Projects\\Triggers\\assets\\scripts\\enemy\\enemyjumpatack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D211F5C0-3DBE-B4F9-1AB3-83CE4E455A08}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy\\enemyjumpatack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PauseMenuController.cs",
+              "DocumentMoniker": "D:\\Study\\Unity Projects\\Triggers\\Assets\\Scripts\\PauseMenu\\PauseMenuController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PauseMenu\\PauseMenuController.cs",
+              "ToolTip": "D:\\Study\\Unity Projects\\Triggers\\Assets\\Scripts\\PauseMenu\\PauseMenuController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PauseMenu\\PauseMenuController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T19:04:03.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FinishTrigger.cs",
+              "DocumentMoniker": "D:\\Study\\Unity Projects\\Triggers\\Assets\\Scripts\\Finish\\FinishTrigger.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Finish\\FinishTrigger.cs",
+              "ToolTip": "D:\\Study\\Unity Projects\\Triggers\\Assets\\Scripts\\Finish\\FinishTrigger.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Finish\\FinishTrigger.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABsAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T18:29:00.403Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StartMenuController.cs",
+              "DocumentMoniker": "D:\\Study\\Unity Projects\\Triggers\\Assets\\Scripts\\StartAndLevelMenu\\StartMenuController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\StartAndLevelMenu\\StartMenuController.cs",
+              "ToolTip": "D:\\Study\\Unity Projects\\Triggers\\Assets\\Scripts\\StartAndLevelMenu\\StartMenuController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\StartAndLevelMenu\\StartMenuController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T18:23:41.846Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LevelMenuController.cs",
+              "DocumentMoniker": "D:\\Study\\Unity Projects\\Triggers\\Assets\\Scripts\\StartAndLevelMenu\\LevelMenuController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\StartAndLevelMenu\\LevelMenuController.cs",
+              "ToolTip": "D:\\Study\\Unity Projects\\Triggers\\Assets\\Scripts\\StartAndLevelMenu\\LevelMenuController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\StartAndLevelMenu\\LevelMenuController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T18:23:39.093Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Coin.cs",
+              "DocumentMoniker": "D:\\Study\\Unity Projects\\Triggers\\Assets\\Scripts\\Coin\\Coin.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Coin\\Coin.cs",
+              "ToolTip": "D:\\Study\\Unity Projects\\Triggers\\Assets\\Scripts\\Coin\\Coin.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Coin\\Coin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T18:21:54.651Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CoinManager.cs",
+              "DocumentMoniker": "D:\\Study\\Unity Projects\\Triggers\\Assets\\Scripts\\Coin\\CoinManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Coin\\CoinManager.cs",
+              "ToolTip": "D:\\Study\\Unity Projects\\Triggers\\Assets\\Scripts\\Coin\\CoinManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Coin\\CoinManager.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAABoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T18:20:49.971Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PlayerMovement.cs",
+              "DocumentMoniker": "D:\\Study\\Unity Projects\\Triggers\\Assets\\Scripts\\Player\\PlayerMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayerMovement.cs",
+              "ToolTip": "D:\\Study\\Unity Projects\\Triggers\\Assets\\Scripts\\Player\\PlayerMovement.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\PlayerMovement.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAACIAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T21:46:13.848Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EnemyJumpAtack.cs",
+              "DocumentMoniker": "D:\\Study\\Unity Projects\\Triggers\\Assets\\Scripts\\Enemy\\EnemyJumpAtack.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\EnemyJumpAtack.cs",
+              "ToolTip": "D:\\Study\\Unity Projects\\Triggers\\Assets\\Scripts\\Enemy\\EnemyJumpAtack.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemy\\EnemyJumpAtack.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T15:27:09.664Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EnemyHealthSystem.cs",
+              "DocumentMoniker": "D:\\Study\\Unity Projects\\Triggers\\Assets\\Scripts\\Enemy\\EnemyHealthSystem.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\EnemyHealthSystem.cs",
+              "ToolTip": "D:\\Study\\Unity Projects\\Triggers\\Assets\\Scripts\\Enemy\\EnemyHealthSystem.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemy\\EnemyHealthSystem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T15:24:51.018Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EnemyController.cs",
+              "DocumentMoniker": "D:\\Study\\Unity Projects\\Triggers\\Assets\\Scripts\\Enemy\\EnemyController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\EnemyController.cs",
+              "ToolTip": "D:\\Study\\Unity Projects\\Triggers\\Assets\\Scripts\\Enemy\\EnemyController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemy\\EnemyController.cs",
+              "ViewState": "AgIAAJQAAAAAAAAAAAAIwKgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T14:30:09.705Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PlayerHealth.cs",
+              "DocumentMoniker": "D:\\Study\\Unity Projects\\Triggers\\Assets\\Scripts\\Player\\PlayerHealth.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayerHealth.cs",
+              "ToolTip": "D:\\Study\\Unity Projects\\Triggers\\Assets\\Scripts\\Player\\PlayerHealth.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\PlayerHealth.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACEAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T13:47:04.265Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HealthUI.cs",
+              "DocumentMoniker": "D:\\Study\\Unity Projects\\Triggers\\Assets\\Scripts\\HealthUI\\HealthUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\HealthUI\\HealthUI.cs",
+              "ToolTip": "D:\\Study\\Unity Projects\\Triggers\\Assets\\Scripts\\HealthUI\\HealthUI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\HealthUI\\HealthUI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T13:36:27.534Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
