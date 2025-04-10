@@ -1,0 +1,211 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Study\\Unity Projects\\Design Patterns\\2. Events\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CF45DE68-65D1-CC82-33BC-402C8B40694F}|Assembly-CSharp.csproj|d:\\study\\unity projects\\design patterns\\2. events\\assets\\scripts\\startandlevelmenu\\levelmenucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF45DE68-65D1-CC82-33BC-402C8B40694F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\startandlevelmenu\\levelmenucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF45DE68-65D1-CC82-33BC-402C8B40694F}|Assembly-CSharp.csproj|d:\\study\\unity projects\\design patterns\\2. events\\assets\\scripts\\startandlevelmenu\\startmenucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF45DE68-65D1-CC82-33BC-402C8B40694F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\startandlevelmenu\\startmenucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF45DE68-65D1-CC82-33BC-402C8B40694F}|Assembly-CSharp.csproj|d:\\study\\unity projects\\design patterns\\2. events\\assets\\scripts\\finish\\finishtrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF45DE68-65D1-CC82-33BC-402C8B40694F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\finish\\finishtrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF45DE68-65D1-CC82-33BC-402C8B40694F}|Assembly-CSharp.csproj|d:\\study\\unity projects\\design patterns\\2. events\\assets\\scripts\\coin\\coinmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF45DE68-65D1-CC82-33BC-402C8B40694F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\coin\\coinmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF45DE68-65D1-CC82-33BC-402C8B40694F}|Assembly-CSharp.csproj|d:\\study\\unity projects\\design patterns\\2. events\\assets\\scripts\\coin\\coin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF45DE68-65D1-CC82-33BC-402C8B40694F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\coin\\coin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF45DE68-65D1-CC82-33BC-402C8B40694F}|Assembly-CSharp.csproj|d:\\study\\unity projects\\design patterns\\2. events\\assets\\scripts\\player\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF45DE68-65D1-CC82-33BC-402C8B40694F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF45DE68-65D1-CC82-33BC-402C8B40694F}|Assembly-CSharp.csproj|d:\\study\\unity projects\\design patterns\\2. events\\assets\\scripts\\player\\playerhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF45DE68-65D1-CC82-33BC-402C8B40694F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\playerhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF45DE68-65D1-CC82-33BC-402C8B40694F}|Assembly-CSharp.csproj|d:\\study\\unity projects\\design patterns\\2. events\\assets\\scripts\\healthui\\healthui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF45DE68-65D1-CC82-33BC-402C8B40694F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\healthui\\healthui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF45DE68-65D1-CC82-33BC-402C8B40694F}|Assembly-CSharp.csproj|d:\\study\\unity projects\\design patterns\\2. events\\assets\\scripts\\enemy\\enemyjumpatack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF45DE68-65D1-CC82-33BC-402C8B40694F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy\\enemyjumpatack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF45DE68-65D1-CC82-33BC-402C8B40694F}|Assembly-CSharp.csproj|d:\\study\\unity projects\\design patterns\\2. events\\assets\\scripts\\enemy\\enemyhealthsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF45DE68-65D1-CC82-33BC-402C8B40694F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy\\enemyhealthsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF45DE68-65D1-CC82-33BC-402C8B40694F}|Assembly-CSharp.csproj|d:\\study\\unity projects\\design patterns\\2. events\\assets\\scripts\\enemy\\enemycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF45DE68-65D1-CC82-33BC-402C8B40694F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy\\enemycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StartMenuController.cs",
+              "DocumentMoniker": "D:\\Study\\Unity Projects\\Design Patterns\\2. Events\\Assets\\Scripts\\StartAndLevelMenu\\StartMenuController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\StartAndLevelMenu\\StartMenuController.cs",
+              "ToolTip": "D:\\Study\\Unity Projects\\Design Patterns\\2. Events\\Assets\\Scripts\\StartAndLevelMenu\\StartMenuController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\StartAndLevelMenu\\StartMenuController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T15:50:01.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LevelMenuController.cs",
+              "DocumentMoniker": "D:\\Study\\Unity Projects\\Design Patterns\\2. Events\\Assets\\Scripts\\StartAndLevelMenu\\LevelMenuController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\StartAndLevelMenu\\LevelMenuController.cs",
+              "ToolTip": "D:\\Study\\Unity Projects\\Design Patterns\\2. Events\\Assets\\Scripts\\StartAndLevelMenu\\LevelMenuController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\StartAndLevelMenu\\LevelMenuController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T15:50:01.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PlayerMovement.cs",
+              "DocumentMoniker": "D:\\Study\\Unity Projects\\Design Patterns\\2. Events\\Assets\\Scripts\\Player\\PlayerMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayerMovement.cs",
+              "ToolTip": "D:\\Study\\Unity Projects\\Design Patterns\\2. Events\\Assets\\Scripts\\Player\\PlayerMovement.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\PlayerMovement.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T14:33:02.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PlayerHealth.cs",
+              "DocumentMoniker": "D:\\Study\\Unity Projects\\Design Patterns\\2. Events\\Assets\\Scripts\\Player\\PlayerHealth.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayerHealth.cs",
+              "ToolTip": "D:\\Study\\Unity Projects\\Design Patterns\\2. Events\\Assets\\Scripts\\Player\\PlayerHealth.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\PlayerHealth.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T14:33:00.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HealthUI.cs",
+              "DocumentMoniker": "D:\\Study\\Unity Projects\\Design Patterns\\2. Events\\Assets\\Scripts\\HealthUI\\HealthUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\HealthUI\\HealthUI.cs",
+              "ToolTip": "D:\\Study\\Unity Projects\\Design Patterns\\2. Events\\Assets\\Scripts\\HealthUI\\HealthUI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\HealthUI\\HealthUI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T14:32:58.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FinishTrigger.cs",
+              "DocumentMoniker": "D:\\Study\\Unity Projects\\Design Patterns\\2. Events\\Assets\\Scripts\\Finish\\FinishTrigger.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Finish\\FinishTrigger.cs",
+              "ToolTip": "D:\\Study\\Unity Projects\\Design Patterns\\2. Events\\Assets\\Scripts\\Finish\\FinishTrigger.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Finish\\FinishTrigger.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAwwBYAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T14:32:57.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EnemyJumpAtack.cs",
+              "DocumentMoniker": "D:\\Study\\Unity Projects\\Design Patterns\\2. Events\\Assets\\Scripts\\Enemy\\EnemyJumpAtack.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\EnemyJumpAtack.cs",
+              "ToolTip": "D:\\Study\\Unity Projects\\Design Patterns\\2. Events\\Assets\\Scripts\\Enemy\\EnemyJumpAtack.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemy\\EnemyJumpAtack.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T14:32:56.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EnemyHealthSystem.cs",
+              "DocumentMoniker": "D:\\Study\\Unity Projects\\Design Patterns\\2. Events\\Assets\\Scripts\\Enemy\\EnemyHealthSystem.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\EnemyHealthSystem.cs",
+              "ToolTip": "D:\\Study\\Unity Projects\\Design Patterns\\2. Events\\Assets\\Scripts\\Enemy\\EnemyHealthSystem.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemy\\EnemyHealthSystem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T14:32:55.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EnemyController.cs",
+              "DocumentMoniker": "D:\\Study\\Unity Projects\\Design Patterns\\2. Events\\Assets\\Scripts\\Enemy\\EnemyController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\EnemyController.cs",
+              "ToolTip": "D:\\Study\\Unity Projects\\Design Patterns\\2. Events\\Assets\\Scripts\\Enemy\\EnemyController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemy\\EnemyController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T14:32:53.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CoinManager.cs",
+              "DocumentMoniker": "D:\\Study\\Unity Projects\\Design Patterns\\2. Events\\Assets\\Scripts\\Coin\\CoinManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Coin\\CoinManager.cs",
+              "ToolTip": "D:\\Study\\Unity Projects\\Design Patterns\\2. Events\\Assets\\Scripts\\Coin\\CoinManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Coin\\CoinManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T14:32:49.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Coin.cs",
+              "DocumentMoniker": "D:\\Study\\Unity Projects\\Design Patterns\\2. Events\\Assets\\Scripts\\Coin\\Coin.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Coin\\Coin.cs",
+              "ToolTip": "D:\\Study\\Unity Projects\\Design Patterns\\2. Events\\Assets\\Scripts\\Coin\\Coin.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Coin\\Coin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T14:32:42.363Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
